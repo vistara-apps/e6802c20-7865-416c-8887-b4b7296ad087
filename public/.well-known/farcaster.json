@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Resilience Loop",
+    "subtitle": "Built with Zara",
+    "description": "Resilience Loop is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://e6802c207865416c8887b4b7296ad087-q0u4-f3eqve1uq-vistara.vercel.app",
+    "splashImageUrl": "https://e6802c207865416c8887b4b7296ad087-q0u4-f3eqve1uq-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://e6802c207865416c8887b4b7296ad087-q0u4-f3eqve1uq-vistara.vercel.app/image.png",
+    "tagline": "Resilience Loop",
+    "screenshotUrls": [
+      "https://e6802c207865416c8887b4b7296ad087-q0u4-f3eqve1uq-vistara.vercel.app/screenshot.png",
+      "https://e6802c207865416c8887b4b7296ad087-q0u4-f3eqve1uq-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://e6802c207865416c8887b4b7296ad087-q0u4-f3eqve1uq-vistara.vercel.app/api/webhook"
+  }
+}
