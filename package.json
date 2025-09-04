@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@coinbase/onchainkit": "^0.38.19",
-    "@farcaster/frame-sdk": "^0.0.60",
+    "@farcaster/miniapp-sdk": "^0.1.0",
     "@upstash/redis": "^1.34.4",
     "@tanstack/react-query": "^5",
     "next": "^15.3.3",
@@ -24,7 +24,8 @@
     "lucide-react": "^0.263.1",
     "recharts": "^2.8.0",
     "@supabase/supabase-js": "^2.38.4",
-    "openai": "^4.26.0"
+    "openai": "^4.26.0",
+    "pino-pretty": "^11.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
